@@ -10,10 +10,11 @@ public class Data {
         mes = 1;
         ano = 1970;
     }
-    public int Data(int dia, int mes, int ano){
-        dia = dia;
-        mes = mes;
-    }
+//    public int Data(int dia, int mes, int ano){
+//        dia = dia;
+//        mes = mes;
+//        return dia;
+//    }
 
 
     String obterDataFormada() {
