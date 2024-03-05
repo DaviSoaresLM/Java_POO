@@ -1,15 +1,14 @@
 package contaBancaria;
 
 public class Conta {
-    private double saldoConta;
+    private double saldo;
     public double valor;
 
-    public double Depositar(saldoConta) {
-
-        return 0;
+    public double Depositar(double saldo, double valor) {
+        return this.saldo + this.valor;
     }
 
-    public double getsaldoConta() {
-        return saldoConta;
+    public double getSaldo() {
+        return saldo;
     }
 }
