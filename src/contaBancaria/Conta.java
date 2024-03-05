@@ -4,7 +4,7 @@ public class Conta {
     private double saldoConta;
     public double valor;
 
-    public double Depositar(saldoConta) {
+    public double Depositar() {
 
         return 0;
     }
