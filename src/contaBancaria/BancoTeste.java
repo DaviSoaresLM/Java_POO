@@ -6,8 +6,8 @@ public class BancoTeste {
         int escolha = 3;
 
         System.out.println("Olá, escolha uma das seguintes opções: ");
-        System.out.println("1 - Depositar\n" +
-                "2 - ");
+//        System.out.println("1 - Depositar\n" +
+//                "2 - ");
 
     }
 }
