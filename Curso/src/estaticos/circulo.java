@@ -11,7 +11,7 @@ public class circulo {
         System.out.println("Dite o radianos: ");
         double radius = sc.nextDouble();
 
-        double c = cincuferencia(radius);
+//        double c = cincuferencia(radius);
 
         double v = volume(radius);
 
